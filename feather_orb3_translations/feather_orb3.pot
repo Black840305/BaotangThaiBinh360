@@ -1,0 +1,31 @@
+#. Skin Element External: Rollover_Effect _CustomImage / URL
+#. Skin Element External: ht_info_custom_image / URL
+#. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_pdf_custom_image / URL
+#. Skin Element External: ht_video_file_custom_image / URL
+#. Skin Element External: ht_video_url_custom_image / URL
+#. Skin Element External: ht_video_vimeo_custom_image / URL
+#. Skin Element External: ht_video_youtube_custom_image / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element: category / Set Variable Value Action (Variable Name: open_tag) / Text
+msgid "_nop_"
+msgstr ""
+
+#. Skin Element Cloner: category_cloner / Skin Configuration Table Entry
+msgid "All"
+msgstr ""
+
+#. Skin Element Text: ht_object_tt / Text
+msgid "I need an Exit"
+msgstr ""
+
+#. Skin Element Text: node_title / Logic Block Text
+msgid "%1\n\n"
+msgstr ""
+
+#. Skin Element Text: share_title / Text
+msgid "Share"
+msgstr ""
+

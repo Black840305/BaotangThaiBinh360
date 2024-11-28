@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <title>Load Model 3D</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+      integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
+      crossorigin="anonymous"
+    />
+    <style>
+      model-viewer {
+        background-color: #a99d9d;
+        width: 100%;
+        height: 100%;
+      }
+      .name_vn,
+      .name_en {
+        color: #d9534f;
+      }
+      .desc_vn,
+      .desc_en {
+        font-size: 1rem;
+      }
+      #modelContainer {
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-8 col-12" id="modelContainer">
+          <model-viewer
+            id="modelViewer"
+            src=""
+            exposure="2"
+            interaction-prompt="none"
+            camera-controls
+            shadow-intensity="0"
+            shadow-softness="0"
+            auto-rotate
+            tone-mapping="commerce"
+            default-roughness="0.5"
+          ></model-viewer>
+        </div>
+
+        <div class="col-md-4 col-12">
+          <h3 class="text-danger name_vn" id="name_vn">Tên mẫu (VN)</h3>
+          <p class="desc_vn" id="desc_vn">
+            Mô tả mẫu bằng tiếng Việt sẽ hiển thị ở đây.
+          </p>
+          <h3 class="text-danger name_en" id="name_en">Model Name (EN)</h3>
+          <p class="desc_en" id="desc_en">
+            English description of the model will be displayed here.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script
+      type="module"
+      src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"
+    ></script>
+
+    <script>
+      // Model data with paths and descriptions
+      const modelData = {
+        "Binh trang men": {
+          src: "../Export Glb/Export Glb/Binh trang men.glb",
+          name_vn: "Bình Trang Men",
+          desc_vn:
+            "Bình trang men là một loại bình cổ truyền thống được phủ lớp men đặc biệt, thể hiện sự tinh xảo của nghệ nhân Việt Nam qua từng chi tiết. Bình này được sử dụng trong các nghi lễ quan trọng và tượng trưng cho sự trang nhã và thanh lịch của văn hóa Việt.",
+          name_en: "Ceramic Glazed Jar",
+          desc_en:
+            "The ceramic glazed jar is a traditional Vietnamese artifact, coated with a unique glaze that showcases the craftsmanship of Vietnamese artisans. It is used in important ceremonies and symbolizes the elegance and sophistication of Vietnamese culture.",
+        },
+        "Chan Den": {
+          src: "../Export Glb/Export Glb/Chan Den.glb",
+          name_vn: "Chân Đèn",
+          desc_vn:
+            "Chân đèn là một vật dụng truyền thống được sử dụng trong các nghi lễ tôn giáo và văn hóa tại Việt Nam.",
+          name_en: "Candle Stand",
+          desc_en:
+            "The candle stand is a traditional item used in religious and cultural ceremonies in Vietnam.",
+        },
+        "Chan Den Thoi Mac": {
+          src: "../Export Glb/Export Glb/Chan den thoi Mac.glb",
+          name_vn: "Chân Đèn Thời Mạc",
+          desc_vn:
+            "Chân đèn thời Mạc là một sản phẩm nghệ thuật cổ truyền, biểu trưng cho sự tinh tế trong văn hóa Việt Nam Nó thường được sử dụng trong các nghi lễ và có giá trị nghệ thuật cao.",
+          name_en: "Candle Stand",
+          desc_en:
+            "The Mac Dynasty candle stand is a traditional Vietnamese artifact, known for its intricate design and craftsmanship. It is often used in ceremonial practices and holds significant artistic value in Vietnamese culture.",
+        },
+        "Dau Rong": {
+          src: "../Export Glb/Export Glb/dau rong.glb",
+          name_vn: "Đầu Rồng",
+          desc_vn:
+            "Đầu rồng là biểu tượng văn hóa quan trọng trong nghệ thuật truyền thống Việt Nam, thể hiện sự uy nghi và linh thiêng. Thường được trang trí trong các đền, chùa và các sự kiện quan trọng.",
+          name_en: "Dragon Head",
+          desc_en:
+            "The dragon head is a significant cultural symbol in Vietnamese traditional art, representing power and spirituality. It is often displayed in temples, pagodas, and important events.",
+        },
+        "May Chieu Phim": {
+          src: "../Export Glb/Export Glb/May Chieu Phim.glb",
+          name_vn: "Máy Chiếu Phim Cũ",
+          desc_vn:
+            "Máy chiếu phim cổ là thiết bị dùng trong các rạp chiếu phim xưa, giúp trình chiếu những bộ phim đầu tiên và lưu giữ ký ức về thời kỳ điện ảnh mới ra đời.",
+          name_en: "Old Film Projector",
+          desc_en:
+            "The old film projector was used in early movie theaters, projecting some of the first films and preserving memories from the dawn of cinema.",
+        },
+        "Ngai tho": {
+          src: "../Export Glb/Export Glb/Ngai tho.glb",
+          name_vn: "Ngai Thờ",
+          desc_vn:
+            "Ngai thờ là nơi đặt bát hương và các vật phẩm thờ cúng quan trọng trong gia đình Việt Nam, thể hiện lòng tôn kính với tổ tiên.",
+          name_en: "Ancestral Altar Throne",
+          desc_en:
+            "The ancestral altar throne is where incense and important offerings are placed, showing respect and reverence for ancestors in Vietnamese families.",
+        },
+        "Trong Dong Nho": {
+          src: "../Export Glb/Export Glb/Trong Dong Nho.glb",
+          name_vn: "Trống Đồng Nhỏ",
+          desc_vn:
+            "Trống đồng nhỏ là một biểu tượng văn hóa truyền thống, thể hiện tinh thần và sức mạnh của dân tộc Việt.",
+          name_en: "Small Bronze Drum",
+          desc_en:
+            "The small bronze drum is a traditional cultural symbol, representing the spirit and strength of the Vietnamese people.",
+        },
+        // Add more models as needed
+      };
+
+      // Function to get URL query parameters
+      function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+      }
+
+      // Load the model and descriptions based on modelID from URL
+      const modelID = getQueryParam("modelID");
+      const modelViewer = document.getElementById("modelViewer");
+      const nameVN = document.getElementById("name_vn");
+      const descVN = document.getElementById("desc_vn");
+      const nameEN = document.getElementById("name_en");
+      const descEN = document.getElementById("desc_en");
+
+      if (modelID && modelData[modelID]) {
+        const modelInfo = modelData[modelID];
+        modelViewer.src = modelInfo.src;
+        nameVN.textContent = modelInfo.name_vn;
+        descVN.textContent = modelInfo.desc_vn;
+        nameEN.textContent = modelInfo.name_en;
+        descEN.textContent = modelInfo.desc_en;
+      } else {
+        console.error("Model ID not specified or not found in data.");
+      }
+    </script>
+  </body>
+</html>

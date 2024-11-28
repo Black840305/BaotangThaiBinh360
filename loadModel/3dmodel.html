@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <title>Load Model 3D</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+      integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
+      crossorigin="anonymous"
+    />
+    <style>
+      #modelContainer {
+        height: 100vh; /* Chiều cao chiếm toàn màn hình */
+        display: flex;
+        justify-content: center; /* Căn giữa ngang hình 3D */
+        align-items: center; /* Căn giữa dọc hình 3D */
+        overflow: hidden; /* Loại bỏ phần dư thừa nếu có */
+      }
+
+      model-viewer {
+        width: 100%; /* Chiều rộng chiếm toàn bộ khung bên trái */
+        height: 100%; /* Chiều cao chiếm toàn bộ khung bên trái */
+        object-fit: contain; /* Đảm bảo hình không bị méo */
+      }
+
+      model-viewer {
+        background-color: #a99d9d;
+        width: 100%;
+        height: 100%;
+      }
+      .name_vn,
+      .name_en {
+        color: #d9534f;
+      }
+      .desc_vn,
+      .desc_en {
+        font-size: 1rem;
+      }
+      #modelContainer {
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-8 col-12" id="modelContainer">
+          <model-viewer
+            id="modelViewer"
+            src=""
+            exposure="2"
+            interaction-prompt="none"
+            camera-controls
+            shadow-intensity="0"
+            shadow-softness="0"
+            auto-rotate
+            tone-mapping="commerce"
+            default-roughness="0.5"
+            alt="Loading model..."
+            camera-orbit="0deg 90deg auto"
+            min-polar-angle="10deg"
+            max-polar-angle="90deg"
+            max-field-of-view="60deg"
+          ></model-viewer>
+        </div>
+
+        <div class="col-md-4 col-12">
+          <h3 class="text-danger name_vn" id="name_vn">Tên mẫu (VN)</h3>
+          <p class="desc_vn" id="desc_vn">
+            Mô tả mẫu bằng tiếng Việt sẽ hiển thị ở đây.
+          </p>
+          <h3 class="text-danger name_en" id="name_en">Model Name (EN)</h3>
+          <p class="desc_en" id="desc_en">
+            English description of the model will be displayed here.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script
+      type="module"
+      src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"
+    ></script>
+
+    <script>
+      // Function to get URL query parameters
+      function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+      }
+
+      // Load the model and descriptions from a JSON file based on modelID from URL
+      const modelID = getQueryParam("modelID");
+      const modelViewer = document.getElementById("modelViewer");
+      const nameVN = document.getElementById("name_vn");
+      const descVN = document.getElementById("desc_vn");
+      const nameEN = document.getElementById("name_en");
+      const descEN = document.getElementById("desc_en");
+
+      // Default values for fallback
+      const defaultModel = {
+        src: "default-model.glb", // Replace with the path to your default model
+        name_vn: "Tên mẫu mặc định",
+        desc_vn: "Mô tả mẫu mặc định bằng tiếng Việt.",
+        name_en: "Default Model Name",
+        desc_en: "Default model description in English.",
+      };
+
+      if (modelID) {
+        fetch("../modelData.json")
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("Unable to fetch model data.");
+            }
+            return response.json();
+          })
+          .then((modelData) => {
+            if (modelData[modelID]) {
+              const modelInfo = modelData[modelID];
+              modelViewer.src = modelInfo.src;
+              nameVN.textContent = modelInfo.name_vn;
+              descVN.textContent = modelInfo.desc_vn;
+              nameEN.textContent = modelInfo.name_en;
+              descEN.textContent = modelInfo.desc_en;
+            } else {
+              console.warn("Model ID not found. Using default model.");
+              loadDefaultModel();
+            }
+          })
+          .catch((error) => {
+            console.error("Error loading model data:", error);
+            loadDefaultModel();
+          });
+      } else {
+        console.warn("Model ID not specified. Using default model.");
+        loadDefaultModel();
+      }
+
+      // Function to load default model
+      function loadDefaultModel() {
+        modelViewer.src = defaultModel.src;
+        nameVN.textContent = defaultModel.name_vn;
+        descVN.textContent = defaultModel.desc_vn;
+        nameEN.textContent = defaultModel.name_en;
+        descEN.textContent = defaultModel.desc_en;
+      }
+    </script>
+  </body>
+</html>

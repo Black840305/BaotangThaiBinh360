@@ -1,0 +1,51 @@
+{
+  "Binh trang men": {
+    "src": "../Export Glb/Export Glb/Binh trang men.glb",
+    "name_vn": "Bình Trang Men",
+    "desc_vn": "Bình trang men là một loại bình cổ truyền thống được phủ lớp men đặc biệt, thể hiện sự tinh xảo của nghệ nhân Việt Nam qua từng chi tiết. Bình này được sử dụng trong các nghi lễ quan trọng và tượng trưng cho sự trang nhã và thanh lịch của văn hóa Việt.",
+    "name_en": "Ceramic Glazed Jar",
+    "desc_en": "The ceramic glazed jar is a traditional Vietnamese artifact, coated with a unique glaze that showcases the craftsmanship of Vietnamese artisans. It is used in important ceremonies and symbolizes the elegance and sophistication of Vietnamese culture."
+  },
+  "Chan Den": {
+    "src": "../Export Glb/Export Glb/Chan Den.glb",
+    "name_vn": "Chân Đèn",
+    "desc_vn": "Chân đèn là một vật dụng truyền thống được sử dụng trong các nghi lễ tôn giáo và văn hóa tại Việt Nam.",
+    "name_en": "Candle Stand",
+    "desc_en": "The candle stand is a traditional item used in religious and cultural ceremonies in Vietnam."
+  },
+  "Chan Den Thoi Mac": {
+    "src": "../Export Glb/Export Glb/Chan den thoi Mac.glb",
+    "name_vn": "Chân Đèn Thời Mạc",
+    "desc_vn": "Chân đèn thời Mạc là một sản phẩm nghệ thuật cổ truyền, biểu trưng cho sự tinh tế trong văn hóa Việt Nam Nó thường được sử dụng trong các nghi lễ và có giá trị nghệ thuật cao.",
+    "name_en": "Candle Stand",
+    "desc_en": "The Mac Dynasty candle stand is a traditional Vietnamese artifact, known for its intricate design and craftsmanship. It is often used in ceremonial practices and holds significant artistic value in Vietnamese culture."
+  },
+  "Dau Rong": {
+    "src": "../Export Glb/Export Glb/dau rong.glb",
+    "name_vn": "Đầu Rồng",
+    "desc_vn": "Đầu rồng là biểu tượng văn hóa quan trọng trong nghệ thuật truyền thống Việt Nam, thể hiện sự uy nghi và linh thiêng. Thường được trang trí trong các đền, chùa và các sự kiện quan trọng.",
+    "name_en": "Dragon Head",
+    "desc_en": "The dragon head is a significant cultural symbol in Vietnamese traditional art, representing power and spirituality. It is often displayed in temples, pagodas, and important events."
+  },
+  "May Chieu Phim": {
+    "src": "../Export Glb/Export Glb/May Chieu Phim.glb",
+    "name_vn": "Máy Chiếu Phim Cũ",
+    "desc_vn": "Máy chiếu phim cổ là thiết bị dùng trong các rạp chiếu phim xưa, giúp trình chiếu những bộ phim đầu tiên và lưu giữ ký ức về thời kỳ điện ảnh mới ra đời.",
+    "name_en": "Old Film Projector",
+    "desc_en": "The old film projector was used in early movie theaters, projecting some of the first films and preserving memories from the dawn of cinema."
+  },
+  "Ngai tho": {
+    "src": "../Export Glb/Export Glb/Ngai tho.glb",
+    "name_vn": "Ngai Thờ",
+    "desc_vn": "Ngai thờ là nơi đặt bát hương và các vật phẩm thờ cúng quan trọng trong gia đình Việt Nam, thể hiện lòng tôn kính với tổ tiên.",
+    "name_en": "Ancestral Altar Throne",
+    "desc_en": "The ancestral altar throne is where incense and important offerings are placed, showing respect and reverence for ancestors in Vietnamese families."
+  },
+  "Trong Dong Nho": {
+    "src": "../Export Glb/Export Glb/Trong Dong Nho.glb",
+    "name_vn": "Trống Đồng Nhỏ",
+    "desc_vn": "Trống đồng nhỏ là một biểu tượng văn hóa truyền thống, thể hiện tinh thần và sức mạnh của dân tộc Việt.",
+    "name_en": "Small Bronze Drum",
+    "desc_en": "The small bronze drum is a traditional cultural symbol, representing the spirit and strength of the Vietnamese people."
+  }
+}
