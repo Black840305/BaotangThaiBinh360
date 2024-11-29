@@ -13,19 +13,39 @@
     />
     <style>
       #modelContainer {
-        height: 100vh; /* Chiều cao chiếm toàn màn hình */
+        height: 100vh;
         display: flex;
-        justify-content: center; /* Căn giữa ngang hình 3D */
-        align-items: center; /* Căn giữa dọc hình 3D */
-        overflow: hidden; /* Loại bỏ phần dư thừa nếu có */
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
       }
 
       model-viewer {
-        width: 100%; /* Chiều rộng chiếm toàn bộ khung bên trái */
-        height: 100%; /* Chiều cao chiếm toàn bộ khung bên trái */
-        object-fit: contain; /* Đảm bảo hình không bị méo */
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
       }
 
+      .fullscreen-btn {
+        position: fixed;
+        top: 0%;
+        right: 0%;
+        background-color: #00000000;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        padding: 10px;
+        cursor: pointer;
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .fullscreen-btn svg {
+        width: 50px;
+        height: 50px;
+      }
       model-viewer {
         background-color: #a99d9d;
         width: 100%;
@@ -51,19 +71,37 @@
           <model-viewer
             id="modelViewer"
             src=""
-            exposure="2"
-            interaction-prompt="none"
-            camera-controls
-            shadow-intensity="0"
-            shadow-softness="0"
-            auto-rotate
             tone-mapping="commerce"
             default-roughness="0.5"
             alt="Loading model..."
-            camera-orbit="0deg 90deg auto"
-            min-polar-angle="10deg"
-            max-polar-angle="90deg"
-            max-field-of-view="60deg"
+            auto-rotate
+            ar
+            ar-scale="fixed"
+            camera-controls
+            touch-action="pan-y"
+            alt="A 3D model of an astronaut"
+            shadow-intensity="2"
+            skybox-height="2m"
+            max-camera-orbit="auto 90deg auto"
+            shadow-intensity="0.5"
+            shadow-softness="0.5"
+            interaction-prompt="none"
+            max-camera-orbit="360deg 75deg auto"
+            xr-environment
+          >
+            <button class="fullscreen-btn" id="fullscreenToggle">
+              <img
+                id="enterFullscreenIcon"
+                src="../icons/fullscreencopy.png"
+                alt="Enter Fullscreen"
+                style="width: 30px; height: 30px"
+              />
+              <img
+                id="exitFullscreenIcon"
+                src="../icons/exitfullscreen.png"
+                alt="Exit Fullscreen"
+                style="width: 30px; height: 30px; display: none"
+              /></button
           ></model-viewer>
         </div>
 
@@ -100,7 +138,6 @@
       const nameEN = document.getElementById("name_en");
       const descEN = document.getElementById("desc_en");
 
-      // Default values for fallback
       const defaultModel = {
         src: "default-model.glb", // Replace with the path to your default model
         name_vn: "Tên mẫu mặc định",
@@ -140,13 +177,39 @@
       }
 
       // Function to load default model
-      function loadDefaultModel() {
-        modelViewer.src = defaultModel.src;
-        nameVN.textContent = defaultModel.name_vn;
-        descVN.textContent = defaultModel.desc_vn;
-        nameEN.textContent = defaultModel.name_en;
-        descEN.textContent = defaultModel.desc_en;
-      }
+    </script>
+    <script>
+      const fullscreenBtn = document.getElementById("fullscreenToggle");
+      const modelContainer = document.getElementById("modelContainer");
+      fullscreenBtn.addEventListener("click", () => {
+        if (!document.fullscreenElement) {
+          // Enter fullscreen
+          modelContainer
+            .requestFullscreen()
+            .then(() => {
+              document.getElementById("enterFullscreenIcon").style.display =
+                "none";
+              document.getElementById("exitFullscreenIcon").style.display =
+                "block";
+            })
+            .catch((err) => {
+              console.error(`Failed to enter fullscreen: ${err.message}`);
+            });
+        } else {
+          // Exit fullscreen
+          document
+            .exitFullscreen()
+            .then(() => {
+              document.getElementById("enterFullscreenIcon").style.display =
+                "block";
+              document.getElementById("exitFullscreenIcon").style.display =
+                "none";
+            })
+            .catch((err) => {
+              console.error(`Failed to exit fullscreen: ${err.message}`);
+            });
+        }
+      });
     </script>
   </body>
 </html>

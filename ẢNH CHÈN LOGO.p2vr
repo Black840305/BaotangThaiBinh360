@@ -25,12 +25,12 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>167.508</start>
+          <start>173.99</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>8.63587</start>
+          <start>3.5</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
@@ -49,8 +49,8 @@
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
-        <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2024-11-14T11:50:46</defaultviewtimestamp>
+        <flyinprojection>rectilinear</flyinprojection>
+        <defaultviewtimestamp>2024-11-29T11:19:18</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -7381,7 +7381,7 @@
       <translatehotspotmedia>1</translatehotspotmedia>
       <translatepinnedmedia>1</translatepinnedmedia>
       <translationspath>translations</translationspath>
-      <fovmode>diagonal</fovmode>
+      <fovmode>horizontal</fovmode>
       <backgroundsound>
         <position>
           <pan>-1</pan>
@@ -7457,7 +7457,7 @@
         </autorotate>
         <soundstransition/>
         <flyintransition>
-          <enabled>1</enabled>
+          <enabled>0</enabled>
           <speed>5</speed>
         </flyintransition>
         <hotspottext>
@@ -7476,7 +7476,7 @@
         <filename>pano.xml</filename>
         <skinfile>$d/feather_orb3.ggsk</skinfile>
         <invertwheel>1</invertwheel>
-        <zoomcentercursor>0</zoomcentercursor>
+        <zoomcentercursor>1</zoomcentercursor>
         <sensitivity>6</sensitivity>
         <hideaboutbox>1</hideaboutbox>
         <skinSvgToPng>0</skinSvgToPng>
@@ -7488,6 +7488,7 @@
         <fullscreencontext>0</fullscreencontext>
         <vrskinfile>venis_vr.ggsk</vrskinfile>
         <projectionscontext>0</projectionscontext>
+        <rubberband>1</rubberband>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
       <htmlcss>
