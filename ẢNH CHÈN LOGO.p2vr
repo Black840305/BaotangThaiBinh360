@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="20966" version="7.1.6">
+<pano2vrconfig version="7.1.6" rev="20966">
   <tour>
     <panorama>
       <projectsettings>
