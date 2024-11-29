@@ -5024,6 +5024,11 @@
         <customprops/>
         <capturedatetime>2022-08-26T16:38:38</capturedatetime>
         <tags>NHCHNLOGO</tags>
+        <floorplancoordinates>
+          <floorplanid>FloorPlan01</floorplanid>
+          <x>1284</x>
+          <y>530</y>
+        </floorplancoordinates>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7421,10 +7426,11 @@
         <id>FloorPlan01</id>
         <floorplanfilename>images/image_3.jpg</floorplanfilename>
         <type>file</type>
-        <lastmodified>2024-11-28T00:00:09</lastmodified>
+        <lastmodified>2024-11-29T18:38:37</lastmodified>
         <floorplannorth>267.34</floorplannorth>
         <floorplanscale>0</floorplanscale>
         <floorplanoutputbackgroundcolor>#ffffff,0</floorplanoutputbackgroundcolor>
+        <floorplanoutputformat>1</floorplanoutputformat>
       </floorplan>
     </floorplans>
     <hotspots/>
@@ -7450,7 +7456,7 @@
           <transitiontype>crossdissolve</transitiontype>
           <zoominenabled>0</zoominenabled>
           <enabled>1</enabled>
-          <zoomoutwait>0</zoomoutwait>
+          <zoomoutwait>1</zoomoutwait>
         </transition>
         <autorotate>
           <enabled>1</enabled>
@@ -7477,8 +7483,8 @@
         <filename>pano.xml</filename>
         <skinfile>$d/feather_orb3.ggsk</skinfile>
         <invertwheel>1</invertwheel>
-        <zoomcentercursor>1</zoomcentercursor>
-        <sensitivity>6</sensitivity>
+        <zoomcentercursor>0</zoomcentercursor>
+        <sensitivity>2</sensitivity>
         <hideaboutbox>1</hideaboutbox>
         <skinSvgToPng>0</skinSvgToPng>
         <smoothhsmovement>1</smoothhsmovement>
@@ -7488,8 +7494,11 @@
         </menulink>
         <fullscreencontext>0</fullscreencontext>
         <vrskinfile>venis_vr.ggsk</vrskinfile>
-        <projectionscontext>0</projectionscontext>
-        <rubberband>1</rubberband>
+        <projectionscontext>1</projectionscontext>
+        <rubberband>0</rubberband>
+        <invertcontrol>1</invertcontrol>
+        <quality>100</quality>
+        <previewquality>27</previewquality>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
       <htmlcss>
