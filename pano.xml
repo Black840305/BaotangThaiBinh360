@@ -7,7 +7,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="173.99" projection="4" fov="100" tilt="3.5"/>
       <flyin pan="0" projection="4" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -25,10 +25,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -40,7 +40,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="163.65" projection="4" fov="100" tilt="-0.53"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -58,10 +58,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -73,7 +73,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -91,10 +91,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -106,7 +106,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -124,10 +124,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -139,7 +139,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -157,10 +157,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -172,7 +172,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -192,10 +192,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -207,7 +207,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -226,10 +226,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -241,7 +241,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="-97.8674" projection="4" fov="100" tilt="-6.56066"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -261,10 +261,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -276,7 +276,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -294,10 +294,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -309,7 +309,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -326,10 +326,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -341,7 +341,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -360,10 +360,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -375,7 +375,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -393,10 +393,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -408,7 +408,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -426,10 +426,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -441,7 +441,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -458,10 +458,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -473,7 +473,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -492,10 +492,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -507,7 +507,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -525,10 +525,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -540,7 +540,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -562,10 +562,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -577,7 +577,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -597,10 +597,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -612,7 +612,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -629,10 +629,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -644,7 +644,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -663,10 +663,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -678,7 +678,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -695,10 +695,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -710,7 +710,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -728,10 +728,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -743,7 +743,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -764,10 +764,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -779,7 +779,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -797,10 +797,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -812,7 +812,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -830,10 +830,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -845,7 +845,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -863,10 +863,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -878,7 +878,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -896,10 +896,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -911,7 +911,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -929,10 +929,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -944,7 +944,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -962,10 +962,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -977,7 +977,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -995,10 +995,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1010,7 +1010,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1029,10 +1029,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1044,7 +1044,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1061,10 +1061,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1076,7 +1076,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1093,10 +1093,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1108,7 +1108,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1127,10 +1127,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1142,7 +1142,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1160,10 +1160,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1175,7 +1175,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1197,10 +1197,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1212,7 +1212,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1230,10 +1230,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1245,7 +1245,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1263,10 +1263,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1278,7 +1278,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1296,10 +1296,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1311,7 +1311,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1333,10 +1333,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1348,7 +1348,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1366,10 +1366,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1381,7 +1381,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1400,10 +1400,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1415,7 +1415,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1432,10 +1432,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1447,7 +1447,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1469,10 +1469,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1484,7 +1484,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1502,10 +1502,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1517,7 +1517,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1535,10 +1535,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1550,7 +1550,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1568,10 +1568,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1583,7 +1583,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1597,7 +1597,7 @@
       <hotspot skinid="ht_node_1" pan="-59.82" url="{node46}" id="Point02" title="" target="" tilt="-12.66" description=""/>
       <hotspot skinid="Ht_3d_node_BinhTrangMen" pan="-4.83" url="" id="Point03" title="" target="_self" tilt="-21.35" description=""/>
       <hotspot skinid="Ht_3d_node_TrongDongNho" pan="-354.83" url="" id="Point04" title="" target="_blank" tilt="-11.45" description=""/>
-      <hotspot skinid="Ht_3d_node_ChanDenThoiMac" pan="-10.32" url="" id="Point05" title="" target="_blank" tilt="-8.19" description=""/>
+      <hotspot skinid="Ht_3d_node_ChanDenThoiMac" pan="-11.78" url="" id="Point05" title="" target="_blank" tilt="-10.34" description=""/>
       <hotspot skinid="Ht_3d_node_DauRong" pan="-14.38" url="" id="Point06" title="" target="_blank" tilt="-13.27" description=""/>
       <hotspot skinid="Ht_3d_node_ChanDen" pan="-19.31" url="" id="Point07" title="" target="_blank" tilt="-20.05" description=""/>
       <hotspot skinid="Ht_3d_node_NgaiTho" pan="-29.4" url="" id="Point08" title="" target="_blank" tilt="-3.44" description=""/>
@@ -1608,10 +1608,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1623,7 +1623,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1642,10 +1642,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1657,7 +1657,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1675,10 +1675,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1690,7 +1690,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1708,10 +1708,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1723,7 +1723,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1742,10 +1742,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1757,7 +1757,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="166.492" projection="4" fov="100" tilt="-4.18117"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1776,10 +1776,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1791,7 +1791,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1810,10 +1810,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1825,7 +1825,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1847,10 +1847,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1862,7 +1862,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1881,10 +1881,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1896,7 +1896,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1915,10 +1915,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1930,7 +1930,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1947,10 +1947,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1962,7 +1962,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -1982,10 +1982,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -1997,7 +1997,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -2020,10 +2020,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -2035,7 +2035,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -2053,10 +2053,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -2068,7 +2068,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -2086,10 +2086,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -2101,7 +2101,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -2121,10 +2121,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -2136,7 +2136,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="-179.868" projection="4" fov="100" tilt="-0.392652"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -2155,10 +2155,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>
@@ -2170,7 +2170,7 @@
       <level width="420" height="420" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="1">
+    <view pannorth="0" fovmode="2">
       <start pan="0" projection="4" fov="100" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
@@ -2188,10 +2188,10 @@
         <source url="media/You-Are-The-Same-Like-Me-Kiss-The-Piano.mp3" mono="0"/>
       </sound>
     </media>
-    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="0" zoomafteroutfov="40" zoomout="0"/>
+    <transition enabled="1" type="crossdissolve" blendcolor="0x000000" zoomspeed="2" softedge="0" blendtime="1" zoomafterinfov="140" zoomfov="40" delay="none" zoomin="0" zoomoutpause="1" zoomafteroutfov="40" zoomout="0"/>
     <autorotate enabled="1" speed="0.100" noderandom="1" nodefilter="" startloaded="0" returntohorizon="0.000" delay="5.00" horizonfromdefview="0" nodedelay="0.00" useanimation="1"/>
     <animation animsequence="Animation01" useinautorotation="1" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="6" speedwheel="1" zoomcentercursor="1" contextfullscreen="0" rubberband="1" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="0">
+    <control hideabout="1" invertcontrol="1" lockedwheel="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" simulatemass="1" sensitivity="2" speedwheel="1" zoomcentercursor="0" contextfullscreen="0" rubberband="0" lockedkeyboard="0" invertwheel="1" dblclickfullscreen="0" contextprojections="1">
       <menulink url="https://vn3d.com.vn/" text="Website"/>
     </control>
     <vr toggleskinbutton="1" defaulthsscale="100" skinbuttonposition="0"/>

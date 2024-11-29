@@ -5008,6 +5008,7 @@
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
+          <minpixels>2</minpixels>
         </fov>
         <flyinstart>
           <pan>0</pan>
@@ -5134,8 +5135,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-10.32</pan>
-            <tilt>-8.19</tilt>
+            <pan>-11.78</pan>
+            <tilt>-10.34</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -7376,12 +7377,12 @@
       <floorplangrid>
         <anchor/>
       </floorplangrid>
-      <usenodealtitude>1</usenodealtitude>
+      <usenodealtitude>0</usenodealtitude>
       <language>vi-VN</language>
       <translatehotspotmedia>1</translatehotspotmedia>
       <translatepinnedmedia>1</translatepinnedmedia>
       <translationspath>translations</translationspath>
-      <fovmode>horizontal</fovmode>
+      <fovmode>diagonal</fovmode>
       <backgroundsound>
         <position>
           <pan>-1</pan>
