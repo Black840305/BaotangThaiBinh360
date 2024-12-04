@@ -5238,31 +5238,6 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>-34.88</pan>
-            <tilt>-11.01</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point09</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <skinid>Ht_3d_node_MayChieuPhim</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -6736,8 +6711,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-183.1</pan>
-            <tilt>-17.05</tilt>
+            <pan>-181.33</pan>
+            <tilt>-16.62</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -6807,6 +6782,31 @@
           <linksubtype>unknown</linksubtype>
           <url>{node59}</url>
           <skinid>ht_node_1</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-182.89</pan>
+            <tilt>0.79</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point06</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>Ht_3d_node_NgaiTho</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
